@@ -37,7 +37,9 @@ The analysis explores the following questsions:
 3. How has the pandemic impacted travel destinations? Is there a statistical significance when looking at travel to the US vs travel to other countries? 
     * We can see that the majority of flights saw a substantial decrease in passengers. More than 6000 flights saw a 50 to 75% decrease in passengers. For example, the flight with the most passengers in 2019 saw a significant decrease in passengers between February and March of 2020. 
     
-    * We created a heatmap to display the cities with the greatest change in passengers traveling to their airports and investigate two hot spots - Knoxville, TN and Sarasota, FL. ![Destination Heat Map](images/Destination_PercentChange_Heatmap.png) Both of these cities saw a large increase in travellers coming to their cities due to the addition of flights. There were only four countries that saw a positive change in the amount of passengers traveling to their countries where the change was greater than or equal to 100%: Samoa (2,142%), Suriname (1,316%), Costa Rica (270%), and the United States (170%).
+    * We created a heatmap to display the cities with the greatest change in passengers traveling to their airports and investigate two hot spots - Knoxville, TN and Sarasota, FL. 
+    ![Destination Heat Map](images/Destination_PercentChange_Heatmap.png) 
+    Both of these cities saw a large increase in travellers coming to their cities due to the addition of flights. There were only four countries that saw a positive change in the amount of passengers traveling to their countries where the change was greater than or equal to 100%: Samoa (2,142%), Suriname (1,316%), Costa Rica (270%), and the United States (170%).
 
     * We ran a linear regression and correlation analysis to investigate if there was a relationship between the flight distance and percent change in passengers. However, the correlation coefficient of -0.03 shows a very weak negative correlation between flight distance and precent change in the number of passengers.
 
